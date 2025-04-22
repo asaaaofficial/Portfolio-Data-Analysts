@@ -1,3 +1,5 @@
+# Python + SQL
+
 ## 👩‍💻PORTOFOLIO DATA ANALYSTS
 Selamat datang di portofolio analisis data A.S.A Official! Repositori ini berisi kumpulan proyek yang menunjukkan kemampuan saya dalam SQL dan visualisasi data menggunakan Tableau. 
 Tujuan saya adalah memecahkan masalah bisnis melalui analisis data yang efisien dan visualisasi yang informatif.
