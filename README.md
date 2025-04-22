@@ -20,8 +20,9 @@ Tujuan saya adalah memecahkan masalah bisnis melalui analisis data yang efisien 
 Analysts.twb – File workbook Tableau yang berisi dashboard interaktif untuk visualisasi data.
 
 ## 🛠️Teknologi yang Digunakan
-SQL – MySQL, Python.
-Tableau – Untuk visualisasi data interaktif.
+- SQL – MySQL Work Bench.
+- Python.
+- Tableau – Untuk visualisasi data interaktif.
 
 ## 📈Tujuan Portofolio
 Portofolio ini bertujuan untuk:​
