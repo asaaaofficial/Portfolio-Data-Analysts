@@ -1,5 +1,5 @@
 ## 👩‍💻PORTOFOLIO DATA ANALYSTS
-Selamat datang di portofolio analisis data saya! Repositori ini berisi kumpulan proyek yang menunjukkan kemampuan saya dalam SQL dan visualisasi data menggunakan Tableau. 
+Selamat datang di portofolio analisis data A.S.A Official! Repositori ini berisi kumpulan proyek yang menunjukkan kemampuan saya dalam SQL dan visualisasi data menggunakan Tableau. 
 Tujuan saya adalah memecahkan masalah bisnis melalui analisis data yang efisien dan visualisasi yang informatif.
 
 ## 👩‍🦰Tentang A.S.A Official
@@ -28,5 +28,5 @@ Portofolio ini bertujuan untuk:​
 3. Memberikan solusi analitis untuk masalah bisnis nyata.
 
 ## 📩 Kontak
-E-mail: asaaaoffical@gmail.com
-Linkedin: https://www.linkedin.com/in/aura-shauma-amatullah-16b49527b/
+- E-mail: asaaaoffical@gmail.com
+- Linkedin: https://www.linkedin.com/in/aura-shauma-amatullah-16b49527b/
